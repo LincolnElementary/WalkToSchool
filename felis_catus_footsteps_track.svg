@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 0 12839.114 14214.333"
+   id="svg3125"
+   style="fill-rule:evenodd"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="felis_catus_footsteps_track.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1053"
+     inkscape:window-height="892"
+     id="namedview12"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="0.01660296"
+     inkscape:cx="6419.557"
+     inkscape:cy="6956.5909"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3125" />
+  <metadata
+     id="metadata3221">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3219">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 7107.1665 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="12839.114 : 7107.1665 : 1"
+       inkscape:persp3d-origin="6419.557 : 4738.111 : 1"
+       id="perspective14" />
+  </defs>
+  <g
+     transform="translate(-4429.5953,-8277.8032)"
+     id="Default"
+     style="visibility:visible">
+    <desc
+       id="desc3128">Master slide</desc>
+  </g>
+  <g
+     id="g2820"
+     style="fill:#ec0000;fill-opacity:1">
+    <path
+       style="fill:#ec0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3225"
+       transform="translate(-4589.5953,-7780)"
+       d="m 10880,10820 a 1760,3040 0 1 1 -3520,0 1760,3040 0 1 1 3520,0 z" />
+    <path
+       style="fill:#ec0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3995"
+       transform="translate(-809.59522,-7624.7452)"
+       d="m 10880,10820 a 1760,3040 0 1 1 -3520,0 1760,3040 0 1 1 3520,0 z" />
+    <path
+       style="fill:#ec0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3997"
+       transform="matrix(0.80060488,-0.14260744,0.14260744,0.80060488,-7369.8889,-832.2197)"
+       d="m 10880,10820 a 1760,3040 0 1 1 -3520,0 1760,3040 0 1 1 3520,0 z" />
+    <path
+       style="fill:#ec0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3999"
+       transform="matrix(-0.83511151,-0.14875392,-0.14875392,0.83511151,20526.65,-1215.0353)"
+       d="m 10880,10820 a 1760,3040 0 1 1 -3520,0 1760,3040 0 1 1 3520,0 z" />
+    <path
+       style="fill:#ec0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4007"
+       d="m 6370.3956,6612.2044 c -743.853,0 -1494.5431,251.7333 -1684.8437,825.5312 -190.3006,573.798 -340.6814,1275.932 -827.1876,1762.437 -486.5062,486.505 -821.037,453.09 -1463.6874,670.532 -642.6504,217.4424 -1324.2813,1063.4364 -1324.2813,2091.5004 0,1028.064 1211.5679,2192.656 1806.8125,2192.656 595.2446,0 991.8198,-30.958 1092.1599,-272.004 100.3401,-241.045 300.9165,-441.621 548.3401,-441.621 247.4236,0 448,200.576 617.6387,420.917 169.6386,220.342 562.2182,317.833 1021.7988,317.833 459.5806,0 986.6472,-59.119 1193.6477,-305.844 207.0005,-246.725 282.0179,-432.906 526.9148,-432.906 244.897,0 448,200.576 665.4927,516.381 217.4927,315.805 708.393,258.859 1204.5073,241.182 496.1139,-17.677 1647.6879,-1126.965 1647.6879,-2086.594 0,-959.629 -354.462,-1702.043 -917.157,-1945.344 -562.6949,-243.3014 -1022.4542,-93.332 -1545.8121,-616.6884 -523.3579,-523.356 -558.8101,-1678.897 -867.875,-2112.156 -309.0649,-433.259 -950.3033,-825.8122 -1694.1563,-825.8122 z" />
+  </g>
+</svg>
