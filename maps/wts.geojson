@@ -87,7 +87,11 @@
     },
     {
       "type": "Feature",
-      "properties": {"name":"CV Park (Honolulu Ave & New York Ave)","arrive":"7:40am","depart":"7:45am"},
+      "properties": {
+        "name": "CV Park (Honolulu Ave & New York Ave)",
+        "arrive": "7:40am",
+        "depart": "7:45am"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -98,7 +102,11 @@
     },
     {
       "type": "Feature",
-      "properties": {"name":"El Lado Dr","arrive":"7:30am","depart":"7:35am"},
+      "properties": {
+        "name": "El Lado Dr",
+        "arrive": "7:30am",
+        "depart": "7:35am"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -109,12 +117,33 @@
     },
     {
       "type": "Feature",
-      "properties": {"name":"Altura Ave & Maryland Ave","arrive":"7:55am","depart":"8:00am"},
+      "properties": {
+        "name": "Altura Ave & Maryland Ave",
+        "arrive": "7:55am",
+        "depart": "8:00am"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -118.25097799301147,
           34.22654009246645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.25097799301147,
+          34.22654009246645
+          ],
+          [
+            -118.25253635644911,
+          34.22751587674298
+          ]
         ]
       }
     }
