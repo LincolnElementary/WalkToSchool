@@ -36,7 +36,7 @@
     },
     {
       "type": "Feature",
-      "properties": {"name":"Altura Ave & Dunsmore Ave"},
+      "properties": {"name":"Altura Ave & Dunsmore Ave","arrive":"7:50am","depart":"7:55am"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "properties": {"name":"New York Ave & Community Ave"},
+      "properties": {"name":"New York Ave & Community Ave","arrive":"7:55am","depart":"8:00am"},
       "geometry": {
         "type": "Point",
         "coordinates": [
