@@ -39,7 +39,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e0000",
+        "marker-color": "#ae0000",
         "marker-size": "small",
         "marker-symbol": "bus",
         "title": "Altura Ave & Dunsmore Ave",
@@ -56,7 +56,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#007e00",
+        "marker-color": "#00ae00",
         "marker-size": "small",
         "marker-symbol": "bus",
         "title": "Altura Ave & Dunsmore Ave",
@@ -97,7 +97,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e00",
+        "marker-color": "#00aeae",
         "marker-size": "small",
         "marker-symbol": "bus",
         "title": "CV Park (Honolulu Ave & New York Ave)",
@@ -114,7 +114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e00",
+        "marker-color": "#00aeae",
         "marker-size": "small",
         "marker-symbol": "bus",
         "title": "El Lado Dr",
@@ -131,7 +131,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#00007e",
+        "marker-color": "#0000ae",
         "marker-size": "small",
         "marker-symbol": "bus",
         "title": "Altura Ave & Maryland Ave",
