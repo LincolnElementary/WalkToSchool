@@ -97,7 +97,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#00aeae",
+        "marker-color": "#ae00ae",
         "marker-size": "small",
         "marker-symbol": "bus",
         "title": "CV Park (Honolulu Ave & New York Ave)",
@@ -114,7 +114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#00aeae",
+        "marker-color": "#ae00ae",
         "marker-size": "small",
         "marker-symbol": "bus",
         "title": "El Lado Dr",
