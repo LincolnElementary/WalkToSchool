@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"Route":"Altura & Dunsmore to Lincoln"},
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24,7 +24,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "school",
-        "name": "Lincoln Elementary School"
+        "Stop": "Lincoln Elementary School"
       },
       "geometry": {
         "type": "Point",
@@ -37,9 +37,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Altura Ave & Dunsmore Ave",
-        "arrive": "7:50am",
-        "depart": "7:55am"
+        "Stop": "Altura Ave & Dunsmore Ave",
+        "Arrival": "7:50am",
+        "Departure": "7:55am"
       },
       "geometry": {
         "type": "Point",
@@ -52,9 +52,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "New York Ave & Community Ave",
-        "arrive": "7:55am",
-        "depart": "8:00am"
+        "Stop": "New York Ave & Community Ave",
+        "Arrival": "7:55am",
+        "Departure": "8:00am"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"Route":"New York & Community to Lincoln"},
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -88,9 +88,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CV Park (Honolulu Ave & New York Ave)",
-        "arrive": "7:40am",
-        "depart": "7:45am"
+        "Stop": "CV Park (Honolulu Ave & New York Ave)",
+        "Arrival": "7:40am",
+        "Departure": "7:45am"
       },
       "geometry": {
         "type": "Point",
@@ -103,9 +103,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "El Lado Dr",
-        "arrive": "7:30am",
-        "depart": "7:35am"
+        "Stop": "El Lado Dr",
+        "Arrival": "7:30am",
+        "Departure": "7:35am"
       },
       "geometry": {
         "type": "Point",
@@ -118,9 +118,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Altura Ave & Maryland Ave",
-        "arrive": "7:55am",
-        "depart": "8:00am"
+        "Stop": "Altura Ave & Maryland Ave",
+        "Arrival": "7:55am",
+        "Departure": "8:00am"
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +132,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"Route":"Altura & Maryland to Lincoln"},
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -149,7 +149,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"Route":"Whiting Woods to Lincoln (via CV Park)"},
       "geometry": {
         "type": "LineString",
         "coordinates": [
