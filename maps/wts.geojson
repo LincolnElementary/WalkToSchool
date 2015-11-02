@@ -40,7 +40,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e0000",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "bus",
         "title": "Altura Ave & Dunsmore Ave",
         "description": "Departs at 7:55am (arrive by 7:50am)"
@@ -56,6 +56,10 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#007e00",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "title": "Altura Ave & Dunsmore Ave",
         "title": "New York Ave & Community Ave",
         "description": "Departs at 8:00am (arrive by 7:55am)"
       },
@@ -93,6 +97,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e00",
+        "marker-size": "small",
+        "marker-symbol": "bus",
         "title": "CV Park (Honolulu Ave & New York Ave)",
         "description": "Departs at 7:45am (arrive by 7:40am)"
       },
@@ -107,6 +114,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e00",
+        "marker-size": "small",
+        "marker-symbol": "bus",
         "title": "El Lado Dr",
         "description": "Departs at 7:35am (arrive by 7:30am)"
       },
@@ -121,6 +131,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#00007e",
+        "marker-size": "small",
+        "marker-symbol": "bus",
         "title": "Altura Ave & Maryland Ave",
         "description": "Departs at 8:00am (arrive by 7:55am)"
       },
