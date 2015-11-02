@@ -36,7 +36,11 @@
     },
     {
       "type": "Feature",
-      "properties": {"name":"Altura Ave & Dunsmore Ave","arrive":"7:50am","depart":"7:55am"},
+      "properties": {
+        "name": "Altura Ave & Dunsmore Ave",
+        "arrive": "7:50am",
+        "depart": "7:55am"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47,7 +51,11 @@
     },
     {
       "type": "Feature",
-      "properties": {"name":"New York Ave & Community Ave","arrive":"7:55am","depart":"8:00am"},
+      "properties": {
+        "name": "New York Ave & Community Ave",
+        "arrive": "7:55am",
+        "depart": "8:00am"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -64,7 +72,7 @@
         "coordinates": [
           [
             -118.25314253568648,
-          34.230001857864
+            34.230001857864
           ],
           [
             -118.25316667556763,
@@ -72,8 +80,41 @@
           ],
           [
             -118.25253635644911,
-          34.22751587674298
+            34.22751587674298
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"CV Park (Honolulu Ave & New York Ave)","arrive":"7:40am","depart":"7:45am"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25321227312088,
+          34.22312919406021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"El Lado Dr","arrive":"7:30am","depart":"7:35am"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25148493051528,
+          34.21880882018587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name":"Altura Ave & Maryland Ave","arrive":"7:55am","depart":"8:00am"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25097799301147,
+          34.22654009246645
         ]
       }
     }
