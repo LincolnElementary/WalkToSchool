@@ -36,7 +36,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"name":"Altura Ave & Dunsmore Ave"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"name":"New York Ave & Community Ave"},
       "geometry": {
         "type": "Point",
         "coordinates": [
