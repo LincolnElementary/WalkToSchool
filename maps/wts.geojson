@@ -38,8 +38,7 @@
       "type": "Feature",
       "properties": {
         "title": "Altura Ave & Dunsmore Ave",
-        "Arrival": "7:50am",
-        "Departure": "7:55am"
+        "description": "Departs at 7:55am (arrive by 7:50am)"
       },
       "geometry": {
         "type": "Point",
@@ -53,8 +52,7 @@
       "type": "Feature",
       "properties": {
         "title": "New York Ave & Community Ave",
-        "Arrival": "7:55am",
-        "Departure": "8:00am"
+        "description": "Departs at 8:00am (arrive by 7:55am)"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +64,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"title":"New York & Community to Lincoln"},
+      "properties": {
+        "title": "New York & Community to Lincoln"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -89,8 +89,7 @@
       "type": "Feature",
       "properties": {
         "title": "CV Park (Honolulu Ave & New York Ave)",
-        "Arrival": "7:40am",
-        "Departure": "7:45am"
+        "description": "Departs at 7:45am (arrive by 7:40am)"
       },
       "geometry": {
         "type": "Point",
@@ -104,8 +103,7 @@
       "type": "Feature",
       "properties": {
         "title": "El Lado Dr",
-        "Arrival": "7:30am",
-        "Departure": "7:35am"
+        "description": "Departs at 7:35am (arrive by 7:30am)"
       },
       "geometry": {
         "type": "Point",
@@ -119,8 +117,7 @@
       "type": "Feature",
       "properties": {
         "title": "Altura Ave & Maryland Ave",
-        "Arrival": "7:55am",
-        "Departure": "8:00am"
+        "description": "Departs at 8:00am (arrive by 7:55am)"
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +129,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"title":"Altura & Maryland to Lincoln"},
+      "properties": {
+        "title": "Altura & Maryland to Lincoln"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -149,7 +148,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"title":"Whiting Woods to Lincoln (via CV Park)"},
+      "properties": {
+        "title": "Whiting Woods to Lincoln (via CV Park)"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
