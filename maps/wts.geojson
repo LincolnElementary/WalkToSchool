@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.25733214616774,
+            34.230460902551215
+          ],
+          [
+            -118.25253635644911,
+            34.22751587674298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lincoln Elementary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25253635644911,
+          34.22751587674298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25733214616774,
+          34.230460902551215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25314253568648,
+          34.230001857864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.25314253568648,
+          34.230001857864
+          ],
+          [
+            -118.25316667556763,
+            34.227895098945304
+          ],
+          [
+            -118.25253635644911,
+          34.22751587674298
+          ]
+        ]
+      }
+    }
+  ]
+}
