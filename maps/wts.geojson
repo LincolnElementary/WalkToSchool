@@ -131,42 +131,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000ae",
-        "marker-size": "small",
-        "marker-symbol": "pitch",
-        "title": "Altura Ave & Maryland Ave",
-        "description": "Departs at 8:00am (arrive by 7:55am)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.25097799301147,
-          34.22654009246645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Altura & Maryland to Lincoln"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -118.25097799301147,
-            34.22654009246645
-          ],
-          [
-            -118.25253635644911,
-            34.22751587674298
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Whiting Woods to Lincoln (via CV Park)"
       },
       "geometry": {
